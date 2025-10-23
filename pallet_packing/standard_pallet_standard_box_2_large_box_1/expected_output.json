@@ -1,0 +1,6 @@
+{
+  "total_pieces": "<value>",
+  "standard_pallet_count": "<value>",
+  "oversized_pallet_count": "<value>",
+  "crate_count": "<value>"
+}
