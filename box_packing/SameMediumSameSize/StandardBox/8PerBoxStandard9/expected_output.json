@@ -1,6 +1,6 @@
 {
-  "total_pieces": “<value>",
-  "standard_box_count": “<value>",
-  “large_box_count": “<value>",
-  "custom_piece_count": "<value>"
+  "total_pieces": 0,
+  "standard_box_count": 0,
+  "large_box_count": 0,
+  "custom_piece_count": 0
 }
