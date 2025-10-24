@@ -8,7 +8,7 @@
 
 # Standard Box:
 To Fit 1 Canvas Gallery (2.75") and 5 PPF (1.83" x 5 = 9.17") It takes a total of 11.917" which is more than 11". So we can not fit them all 
-into a single Standard Box.
+into a single Standard Box. We would need 2 boxes. 1 for Canvas, and 1 for PPF
 
 # Oversize Box
 To Fit 1 Canvas Gallery (2.75") and 5 PPF (1.83" x 5 = 9.17") It takes a total of 11.917" which is less than 13". So we can fit them all 
