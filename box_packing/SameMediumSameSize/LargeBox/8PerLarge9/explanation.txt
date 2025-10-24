@@ -1,1 +1,1 @@
-11 / 8 * 9 = 12.375 < 13, 1 box is enough.
+8 > 9 (client instructed to use the same number per box for both standard and large box), 2 boxes are needed.
