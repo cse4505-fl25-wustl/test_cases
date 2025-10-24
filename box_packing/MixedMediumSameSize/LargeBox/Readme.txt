@@ -3,4 +3,4 @@
 2_4PerBox-4_6PerBox : We need 2 large boxes  because the  2 canvas fit half the box and the 4 paper print would fit 2/3 of a large box. they cant fit together.
 2_4PerBox-5_6PerBox: We need 2 boxes as the 5 paper print almost fill  the box completely and then 2  more for the canvas.
 3_4PerBox-2_6PerBox: We need 2 boxes as 3 canvas will fill 3/4 of one large box and the 2 paper prints have to go into another one.
-
+3_4PerBox-3_6PerBox: We need 2 boxes as 3 canvas will fill 3/4 of one large box and the 3 paper prints have to go into another one.
