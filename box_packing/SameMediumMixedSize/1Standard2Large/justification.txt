@@ -1,0 +1,1 @@
+Line 1 meets the standard box threshold because only one of the measurements is above 36" and not both (33 x 43), line 2 meets the large box threshold since it doesn't exceed 43.5" (43 x 43) and it has a quantity of 2 for that line number.
