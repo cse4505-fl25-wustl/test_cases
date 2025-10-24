@@ -1,4 +1,5 @@
 # Justification
 * Input contains 24 standard sized pieces (under 36 inches) in one of the dimensions.
-* Art pieces are framed prints, we can fit 6 per box, so we have 4 standard size boxes
-* 1 standard pallet can fit 4 standard size boxes.
+* Art pieces are framed prints
+* Every piece has dimension under 36" so we can fit 30 glass framed prints in one crate
+* We need 1 crates
