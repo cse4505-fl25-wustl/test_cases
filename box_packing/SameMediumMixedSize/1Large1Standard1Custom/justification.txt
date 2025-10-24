@@ -1,6 +1,3 @@
-This expected output is correct because it follows the packing rules where:
-- Standard Box Limit: If ANY dimension >36" → requires large box
-- Large Box Limit: Up to 43.5" in both directions
-- Crate Threshold: >46" → requires custom pallet (won't fit in crate)
+Line 1 can fit in a large box since its not above the threshold of 43.5", line 2 can fit in a standard box, and line 3 can fit in a custom box.
 
-Line 1 meets the large box threshold (43 x 43), line 2 meets the standard box limit since both are not above 36" (33 x 43), and line 3 meets the custom threshold since both measurements are above 46" (48 x 50).
+We have 1 large, 1 custom, and 1 standard item so we can fit all three in a box since they're all glass type.
