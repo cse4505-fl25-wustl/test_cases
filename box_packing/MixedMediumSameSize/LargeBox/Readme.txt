@@ -4,3 +4,11 @@
 2_4PerBox-5_6PerBox: We need 2 boxes as the 5 paper print almost fill  the box completely and then 2  more for the canvas.
 3_4PerBox-2_6PerBox: We need 2 boxes as 3 canvas will fill 3/4 of one large box and the 2 paper prints have to go into another one.
 3_4PerBox-3_6PerBox: We need 2 boxes as 3 canvas will fill 3/4 of one large box and the 3 paper prints have to go into another one.
+3_4PerBox-3_6PerBox: We need 2 boxes as 3 canvas will fill 3/4 of one large box and the 3 paper prints have to go into another one.
+
+1. How much padding in a standard box (11")? How much padding in a large box (13")?
+
+2. Estimated width of each medium:
+Canvas & Acoustic Panels (4 per stdBox): 2.5"
+Paper print (6 per stdBox): 
+Glass (8 per stdBox):
