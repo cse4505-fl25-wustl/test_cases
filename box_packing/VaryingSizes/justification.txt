@@ -4,7 +4,7 @@
 36.5x83: least one dimension less than or equal to 36.5 and height less than 88
 36x36: least one dimension less than or equal to 36.5 and height less than 88
 36x83: least one dimension less than or equal to 36.5 and height less than 88
-37x83: both dimensions greater than 36.5 and at least one less than or equal to 43.5 and height less than 88
+37x88: both dimensions greater than 36.5 and at least one less than or equal to 43.5 and height <= 88
 43.5x43.5: both dimensions greater than 36.5 and at least one less than or equal to 43.5 and height less than 88
 43.5x83: both dimensions greater than 36.5 and at least one less than or equal to 43.5 and height less than 88
 43x88.5: both dimensions greater than 36.5 and at least one less than or equal to 43.5 but height greater than 88
