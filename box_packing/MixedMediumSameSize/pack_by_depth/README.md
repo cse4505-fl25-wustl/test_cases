@@ -1,0 +1,1 @@
+These test cases try to fit as many items into a box as the box depth would allow. We estimate the depth of each type of art, and calculate the total depth of the art. If it fits into one box, we put it in one box, otherwise, we split them up.
