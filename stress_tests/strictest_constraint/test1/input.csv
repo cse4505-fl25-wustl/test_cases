@@ -1,0 +1,401 @@
+linenumber,quantity,tagnumber,finalmedium,outsidesizewidth,outsidesizeheight,glazing,frame1moulding,hardware
+1,1,G0-P0,Paper Print - Framed,38,40.000,Glass,Standard,Wire
+2,1,G0-P1,Paper Print - Framed,38,40.000,Glass,Standard,Wire
+3,1,G0-P2,Paper Print - Framed,38,40.000,Glass,Standard,Wire
+4,1,G0-P3,Paper Print - Framed,38,40.000,Glass,Standard,Wire
+5,1,G0-A1,Acoustic panel - framed,38,40.005,No Glazing,Standard,Wire
+6,1,G1-P0,Paper Print - Framed,38,40.010,Glass,Standard,Wire
+7,1,G1-P1,Paper Print - Framed,38,40.010,Glass,Standard,Wire
+8,1,G1-P2,Paper Print - Framed,38,40.010,Glass,Standard,Wire
+9,1,G1-P3,Paper Print - Framed,38,40.010,Glass,Standard,Wire
+10,1,G1-A1,Acoustic panel - framed,38,40.015,No Glazing,Standard,Wire
+11,1,G2-P0,Paper Print - Framed,38,40.020,Glass,Standard,Wire
+12,1,G2-P1,Paper Print - Framed,38,40.020,Glass,Standard,Wire
+13,1,G2-P2,Paper Print - Framed,38,40.020,Glass,Standard,Wire
+14,1,G2-P3,Paper Print - Framed,38,40.020,Glass,Standard,Wire
+15,1,G2-A1,Acoustic panel - framed,38,40.025,No Glazing,Standard,Wire
+16,1,G3-P0,Paper Print - Framed,38,40.030,Glass,Standard,Wire
+17,1,G3-P1,Paper Print - Framed,38,40.030,Glass,Standard,Wire
+18,1,G3-P2,Paper Print - Framed,38,40.030,Glass,Standard,Wire
+19,1,G3-P3,Paper Print - Framed,38,40.030,Glass,Standard,Wire
+20,1,G3-A1,Acoustic panel - framed,38,40.035,No Glazing,Standard,Wire
+21,1,G4-P0,Paper Print - Framed,38,40.040,Glass,Standard,Wire
+22,1,G4-P1,Paper Print - Framed,38,40.040,Glass,Standard,Wire
+23,1,G4-P2,Paper Print - Framed,38,40.040,Glass,Standard,Wire
+24,1,G4-P3,Paper Print - Framed,38,40.040,Glass,Standard,Wire
+25,1,G4-A1,Acoustic panel - framed,38,40.045,No Glazing,Standard,Wire
+26,1,G5-P0,Paper Print - Framed,38,40.050,Glass,Standard,Wire
+27,1,G5-P1,Paper Print - Framed,38,40.050,Glass,Standard,Wire
+28,1,G5-P2,Paper Print - Framed,38,40.050,Glass,Standard,Wire
+29,1,G5-P3,Paper Print - Framed,38,40.050,Glass,Standard,Wire
+30,1,G5-A1,Acoustic panel - framed,38,40.055,No Glazing,Standard,Wire
+31,1,G6-P0,Paper Print - Framed,38,40.060,Glass,Standard,Wire
+32,1,G6-P1,Paper Print - Framed,38,40.060,Glass,Standard,Wire
+33,1,G6-P2,Paper Print - Framed,38,40.060,Glass,Standard,Wire
+34,1,G6-P3,Paper Print - Framed,38,40.060,Glass,Standard,Wire
+35,1,G6-A1,Acoustic panel - framed,38,40.065,No Glazing,Standard,Wire
+36,1,G7-P0,Paper Print - Framed,38,40.070,Glass,Standard,Wire
+37,1,G7-P1,Paper Print - Framed,38,40.070,Glass,Standard,Wire
+38,1,G7-P2,Paper Print - Framed,38,40.070,Glass,Standard,Wire
+39,1,G7-P3,Paper Print - Framed,38,40.070,Glass,Standard,Wire
+40,1,G7-A1,Acoustic panel - framed,38,40.075,No Glazing,Standard,Wire
+41,1,G8-P0,Paper Print - Framed,38,40.080,Glass,Standard,Wire
+42,1,G8-P1,Paper Print - Framed,38,40.080,Glass,Standard,Wire
+43,1,G8-P2,Paper Print - Framed,38,40.080,Glass,Standard,Wire
+44,1,G8-P3,Paper Print - Framed,38,40.080,Glass,Standard,Wire
+45,1,G8-A1,Acoustic panel - framed,38,40.085,No Glazing,Standard,Wire
+46,1,G9-P0,Paper Print - Framed,38,40.090,Glass,Standard,Wire
+47,1,G9-P1,Paper Print - Framed,38,40.090,Glass,Standard,Wire
+48,1,G9-P2,Paper Print - Framed,38,40.090,Glass,Standard,Wire
+49,1,G9-P3,Paper Print - Framed,38,40.090,Glass,Standard,Wire
+50,1,G9-A1,Acoustic panel - framed,38,40.095,No Glazing,Standard,Wire
+51,1,G10-P0,Paper Print - Framed,38,40.100,Glass,Standard,Wire
+52,1,G10-P1,Paper Print - Framed,38,40.100,Glass,Standard,Wire
+53,1,G10-P2,Paper Print - Framed,38,40.100,Glass,Standard,Wire
+54,1,G10-P3,Paper Print - Framed,38,40.100,Glass,Standard,Wire
+55,1,G10-A1,Acoustic panel - framed,38,40.105,No Glazing,Standard,Wire
+56,1,G11-P0,Paper Print - Framed,38,40.110,Glass,Standard,Wire
+57,1,G11-P1,Paper Print - Framed,38,40.110,Glass,Standard,Wire
+58,1,G11-P2,Paper Print - Framed,38,40.110,Glass,Standard,Wire
+59,1,G11-P3,Paper Print - Framed,38,40.110,Glass,Standard,Wire
+60,1,G11-A1,Acoustic panel - framed,38,40.115,No Glazing,Standard,Wire
+61,1,G12-P0,Paper Print - Framed,38,40.120,Glass,Standard,Wire
+62,1,G12-P1,Paper Print - Framed,38,40.120,Glass,Standard,Wire
+63,1,G12-P2,Paper Print - Framed,38,40.120,Glass,Standard,Wire
+64,1,G12-P3,Paper Print - Framed,38,40.120,Glass,Standard,Wire
+65,1,G12-A1,Acoustic panel - framed,38,40.125,No Glazing,Standard,Wire
+66,1,G13-P0,Paper Print - Framed,38,40.130,Glass,Standard,Wire
+67,1,G13-P1,Paper Print - Framed,38,40.130,Glass,Standard,Wire
+68,1,G13-P2,Paper Print - Framed,38,40.130,Glass,Standard,Wire
+69,1,G13-P3,Paper Print - Framed,38,40.130,Glass,Standard,Wire
+70,1,G13-A1,Acoustic panel - framed,38,40.135,No Glazing,Standard,Wire
+71,1,G14-P0,Paper Print - Framed,38,40.140,Glass,Standard,Wire
+72,1,G14-P1,Paper Print - Framed,38,40.140,Glass,Standard,Wire
+73,1,G14-P2,Paper Print - Framed,38,40.140,Glass,Standard,Wire
+74,1,G14-P3,Paper Print - Framed,38,40.140,Glass,Standard,Wire
+75,1,G14-A1,Acoustic panel - framed,38,40.145,No Glazing,Standard,Wire
+76,1,G15-P0,Paper Print - Framed,38,40.150,Glass,Standard,Wire
+77,1,G15-P1,Paper Print - Framed,38,40.150,Glass,Standard,Wire
+78,1,G15-P2,Paper Print - Framed,38,40.150,Glass,Standard,Wire
+79,1,G15-P3,Paper Print - Framed,38,40.150,Glass,Standard,Wire
+80,1,G15-A1,Acoustic panel - framed,38,40.155,No Glazing,Standard,Wire
+81,1,G16-P0,Paper Print - Framed,38,40.160,Glass,Standard,Wire
+82,1,G16-P1,Paper Print - Framed,38,40.160,Glass,Standard,Wire
+83,1,G16-P2,Paper Print - Framed,38,40.160,Glass,Standard,Wire
+84,1,G16-P3,Paper Print - Framed,38,40.160,Glass,Standard,Wire
+85,1,G16-A1,Acoustic panel - framed,38,40.165,No Glazing,Standard,Wire
+86,1,G17-P0,Paper Print - Framed,38,40.170,Glass,Standard,Wire
+87,1,G17-P1,Paper Print - Framed,38,40.170,Glass,Standard,Wire
+88,1,G17-P2,Paper Print - Framed,38,40.170,Glass,Standard,Wire
+89,1,G17-P3,Paper Print - Framed,38,40.170,Glass,Standard,Wire
+90,1,G17-A1,Acoustic panel - framed,38,40.175,No Glazing,Standard,Wire
+91,1,G18-P0,Paper Print - Framed,38,40.180,Glass,Standard,Wire
+92,1,G18-P1,Paper Print - Framed,38,40.180,Glass,Standard,Wire
+93,1,G18-P2,Paper Print - Framed,38,40.180,Glass,Standard,Wire
+94,1,G18-P3,Paper Print - Framed,38,40.180,Glass,Standard,Wire
+95,1,G18-A1,Acoustic panel - framed,38,40.185,No Glazing,Standard,Wire
+96,1,G19-P0,Paper Print - Framed,38,40.190,Glass,Standard,Wire
+97,1,G19-P1,Paper Print - Framed,38,40.190,Glass,Standard,Wire
+98,1,G19-P2,Paper Print - Framed,38,40.190,Glass,Standard,Wire
+99,1,G19-P3,Paper Print - Framed,38,40.190,Glass,Standard,Wire
+100,1,G19-A1,Acoustic panel - framed,38,40.195,No Glazing,Standard,Wire
+101,1,G20-P0,Paper Print - Framed,38,40.200,Glass,Standard,Wire
+102,1,G20-P1,Paper Print - Framed,38,40.200,Glass,Standard,Wire
+103,1,G20-P2,Paper Print - Framed,38,40.200,Glass,Standard,Wire
+104,1,G20-P3,Paper Print - Framed,38,40.200,Glass,Standard,Wire
+105,1,G20-A1,Acoustic panel - framed,38,40.205,No Glazing,Standard,Wire
+106,1,G21-P0,Paper Print - Framed,38,40.210,Glass,Standard,Wire
+107,1,G21-P1,Paper Print - Framed,38,40.210,Glass,Standard,Wire
+108,1,G21-P2,Paper Print - Framed,38,40.210,Glass,Standard,Wire
+109,1,G21-P3,Paper Print - Framed,38,40.210,Glass,Standard,Wire
+110,1,G21-A1,Acoustic panel - framed,38,40.215,No Glazing,Standard,Wire
+111,1,G22-P0,Paper Print - Framed,38,40.220,Glass,Standard,Wire
+112,1,G22-P1,Paper Print - Framed,38,40.220,Glass,Standard,Wire
+113,1,G22-P2,Paper Print - Framed,38,40.220,Glass,Standard,Wire
+114,1,G22-P3,Paper Print - Framed,38,40.220,Glass,Standard,Wire
+115,1,G22-A1,Acoustic panel - framed,38,40.225,No Glazing,Standard,Wire
+116,1,G23-P0,Paper Print - Framed,38,40.230,Glass,Standard,Wire
+117,1,G23-P1,Paper Print - Framed,38,40.230,Glass,Standard,Wire
+118,1,G23-P2,Paper Print - Framed,38,40.230,Glass,Standard,Wire
+119,1,G23-P3,Paper Print - Framed,38,40.230,Glass,Standard,Wire
+120,1,G23-A1,Acoustic panel - framed,38,40.235,No Glazing,Standard,Wire
+121,1,G24-P0,Paper Print - Framed,38,40.240,Glass,Standard,Wire
+122,1,G24-P1,Paper Print - Framed,38,40.240,Glass,Standard,Wire
+123,1,G24-P2,Paper Print - Framed,38,40.240,Glass,Standard,Wire
+124,1,G24-P3,Paper Print - Framed,38,40.240,Glass,Standard,Wire
+125,1,G24-A1,Acoustic panel - framed,38,40.245,No Glazing,Standard,Wire
+126,1,G25-P0,Paper Print - Framed,38,40.250,Glass,Standard,Wire
+127,1,G25-P1,Paper Print - Framed,38,40.250,Glass,Standard,Wire
+128,1,G25-P2,Paper Print - Framed,38,40.250,Glass,Standard,Wire
+129,1,G25-P3,Paper Print - Framed,38,40.250,Glass,Standard,Wire
+130,1,G25-A1,Acoustic panel - framed,38,40.255,No Glazing,Standard,Wire
+131,1,G26-P0,Paper Print - Framed,38,40.260,Glass,Standard,Wire
+132,1,G26-P1,Paper Print - Framed,38,40.260,Glass,Standard,Wire
+133,1,G26-P2,Paper Print - Framed,38,40.260,Glass,Standard,Wire
+134,1,G26-P3,Paper Print - Framed,38,40.260,Glass,Standard,Wire
+135,1,G26-A1,Acoustic panel - framed,38,40.265,No Glazing,Standard,Wire
+136,1,G27-P0,Paper Print - Framed,38,40.270,Glass,Standard,Wire
+137,1,G27-P1,Paper Print - Framed,38,40.270,Glass,Standard,Wire
+138,1,G27-P2,Paper Print - Framed,38,40.270,Glass,Standard,Wire
+139,1,G27-P3,Paper Print - Framed,38,40.270,Glass,Standard,Wire
+140,1,G27-A1,Acoustic panel - framed,38,40.275,No Glazing,Standard,Wire
+141,1,G28-P0,Paper Print - Framed,38,40.280,Glass,Standard,Wire
+142,1,G28-P1,Paper Print - Framed,38,40.280,Glass,Standard,Wire
+143,1,G28-P2,Paper Print - Framed,38,40.280,Glass,Standard,Wire
+144,1,G28-P3,Paper Print - Framed,38,40.280,Glass,Standard,Wire
+145,1,G28-A1,Acoustic panel - framed,38,40.285,No Glazing,Standard,Wire
+146,1,G29-P0,Paper Print - Framed,38,40.290,Glass,Standard,Wire
+147,1,G29-P1,Paper Print - Framed,38,40.290,Glass,Standard,Wire
+148,1,G29-P2,Paper Print - Framed,38,40.290,Glass,Standard,Wire
+149,1,G29-P3,Paper Print - Framed,38,40.290,Glass,Standard,Wire
+150,1,G29-A1,Acoustic panel - framed,38,40.295,No Glazing,Standard,Wire
+151,1,G30-P0,Paper Print - Framed,38,40.300,Glass,Standard,Wire
+152,1,G30-P1,Paper Print - Framed,38,40.300,Glass,Standard,Wire
+153,1,G30-P2,Paper Print - Framed,38,40.300,Glass,Standard,Wire
+154,1,G30-P3,Paper Print - Framed,38,40.300,Glass,Standard,Wire
+155,1,G30-A1,Acoustic panel - framed,38,40.305,No Glazing,Standard,Wire
+156,1,G31-P0,Paper Print - Framed,38,40.310,Glass,Standard,Wire
+157,1,G31-P1,Paper Print - Framed,38,40.310,Glass,Standard,Wire
+158,1,G31-P2,Paper Print - Framed,38,40.310,Glass,Standard,Wire
+159,1,G31-P3,Paper Print - Framed,38,40.310,Glass,Standard,Wire
+160,1,G31-A1,Acoustic panel - framed,38,40.315,No Glazing,Standard,Wire
+161,1,G32-P0,Paper Print - Framed,38,40.320,Glass,Standard,Wire
+162,1,G32-P1,Paper Print - Framed,38,40.320,Glass,Standard,Wire
+163,1,G32-P2,Paper Print - Framed,38,40.320,Glass,Standard,Wire
+164,1,G32-P3,Paper Print - Framed,38,40.320,Glass,Standard,Wire
+165,1,G32-A1,Acoustic panel - framed,38,40.325,No Glazing,Standard,Wire
+166,1,G33-P0,Paper Print - Framed,38,40.330,Glass,Standard,Wire
+167,1,G33-P1,Paper Print - Framed,38,40.330,Glass,Standard,Wire
+168,1,G33-P2,Paper Print - Framed,38,40.330,Glass,Standard,Wire
+169,1,G33-P3,Paper Print - Framed,38,40.330,Glass,Standard,Wire
+170,1,G33-A1,Acoustic panel - framed,38,40.335,No Glazing,Standard,Wire
+171,1,G34-P0,Paper Print - Framed,38,40.340,Glass,Standard,Wire
+172,1,G34-P1,Paper Print - Framed,38,40.340,Glass,Standard,Wire
+173,1,G34-P2,Paper Print - Framed,38,40.340,Glass,Standard,Wire
+174,1,G34-P3,Paper Print - Framed,38,40.340,Glass,Standard,Wire
+175,1,G34-A1,Acoustic panel - framed,38,40.345,No Glazing,Standard,Wire
+176,1,G35-P0,Paper Print - Framed,38,40.350,Glass,Standard,Wire
+177,1,G35-P1,Paper Print - Framed,38,40.350,Glass,Standard,Wire
+178,1,G35-P2,Paper Print - Framed,38,40.350,Glass,Standard,Wire
+179,1,G35-P3,Paper Print - Framed,38,40.350,Glass,Standard,Wire
+180,1,G35-A1,Acoustic panel - framed,38,40.355,No Glazing,Standard,Wire
+181,1,G36-P0,Paper Print - Framed,38,40.360,Glass,Standard,Wire
+182,1,G36-P1,Paper Print - Framed,38,40.360,Glass,Standard,Wire
+183,1,G36-P2,Paper Print - Framed,38,40.360,Glass,Standard,Wire
+184,1,G36-P3,Paper Print - Framed,38,40.360,Glass,Standard,Wire
+185,1,G36-A1,Acoustic panel - framed,38,40.365,No Glazing,Standard,Wire
+186,1,G37-P0,Paper Print - Framed,38,40.370,Glass,Standard,Wire
+187,1,G37-P1,Paper Print - Framed,38,40.370,Glass,Standard,Wire
+188,1,G37-P2,Paper Print - Framed,38,40.370,Glass,Standard,Wire
+189,1,G37-P3,Paper Print - Framed,38,40.370,Glass,Standard,Wire
+190,1,G37-A1,Acoustic panel - framed,38,40.375,No Glazing,Standard,Wire
+191,1,G38-P0,Paper Print - Framed,38,40.380,Glass,Standard,Wire
+192,1,G38-P1,Paper Print - Framed,38,40.380,Glass,Standard,Wire
+193,1,G38-P2,Paper Print - Framed,38,40.380,Glass,Standard,Wire
+194,1,G38-P3,Paper Print - Framed,38,40.380,Glass,Standard,Wire
+195,1,G38-A1,Acoustic panel - framed,38,40.385,No Glazing,Standard,Wire
+196,1,G39-P0,Paper Print - Framed,38,40.390,Glass,Standard,Wire
+197,1,G39-P1,Paper Print - Framed,38,40.390,Glass,Standard,Wire
+198,1,G39-P2,Paper Print - Framed,38,40.390,Glass,Standard,Wire
+199,1,G39-P3,Paper Print - Framed,38,40.390,Glass,Standard,Wire
+200,1,G39-A1,Acoustic panel - framed,38,40.395,No Glazing,Standard,Wire
+201,1,G40-P0,Paper Print - Framed,38,40.400,Glass,Standard,Wire
+202,1,G40-P1,Paper Print - Framed,38,40.400,Glass,Standard,Wire
+203,1,G40-P2,Paper Print - Framed,38,40.400,Glass,Standard,Wire
+204,1,G40-P3,Paper Print - Framed,38,40.400,Glass,Standard,Wire
+205,1,G40-A1,Acoustic panel - framed,38,40.405,No Glazing,Standard,Wire
+206,1,G41-P0,Paper Print - Framed,38,40.410,Glass,Standard,Wire
+207,1,G41-P1,Paper Print - Framed,38,40.410,Glass,Standard,Wire
+208,1,G41-P2,Paper Print - Framed,38,40.410,Glass,Standard,Wire
+209,1,G41-P3,Paper Print - Framed,38,40.410,Glass,Standard,Wire
+210,1,G41-A1,Acoustic panel - framed,38,40.415,No Glazing,Standard,Wire
+211,1,G42-P0,Paper Print - Framed,38,40.420,Glass,Standard,Wire
+212,1,G42-P1,Paper Print - Framed,38,40.420,Glass,Standard,Wire
+213,1,G42-P2,Paper Print - Framed,38,40.420,Glass,Standard,Wire
+214,1,G42-P3,Paper Print - Framed,38,40.420,Glass,Standard,Wire
+215,1,G42-A1,Acoustic panel - framed,38,40.425,No Glazing,Standard,Wire
+216,1,G43-P0,Paper Print - Framed,38,40.430,Glass,Standard,Wire
+217,1,G43-P1,Paper Print - Framed,38,40.430,Glass,Standard,Wire
+218,1,G43-P2,Paper Print - Framed,38,40.430,Glass,Standard,Wire
+219,1,G43-P3,Paper Print - Framed,38,40.430,Glass,Standard,Wire
+220,1,G43-A1,Acoustic panel - framed,38,40.435,No Glazing,Standard,Wire
+221,1,G44-P0,Paper Print - Framed,38,40.440,Glass,Standard,Wire
+222,1,G44-P1,Paper Print - Framed,38,40.440,Glass,Standard,Wire
+223,1,G44-P2,Paper Print - Framed,38,40.440,Glass,Standard,Wire
+224,1,G44-P3,Paper Print - Framed,38,40.440,Glass,Standard,Wire
+225,1,G44-A1,Acoustic panel - framed,38,40.445,No Glazing,Standard,Wire
+226,1,G45-P0,Paper Print - Framed,38,40.450,Glass,Standard,Wire
+227,1,G45-P1,Paper Print - Framed,38,40.450,Glass,Standard,Wire
+228,1,G45-P2,Paper Print - Framed,38,40.450,Glass,Standard,Wire
+229,1,G45-P3,Paper Print - Framed,38,40.450,Glass,Standard,Wire
+230,1,G45-A1,Acoustic panel - framed,38,40.455,No Glazing,Standard,Wire
+231,1,G46-P0,Paper Print - Framed,38,40.460,Glass,Standard,Wire
+232,1,G46-P1,Paper Print - Framed,38,40.460,Glass,Standard,Wire
+233,1,G46-P2,Paper Print - Framed,38,40.460,Glass,Standard,Wire
+234,1,G46-P3,Paper Print - Framed,38,40.460,Glass,Standard,Wire
+235,1,G46-A1,Acoustic panel - framed,38,40.465,No Glazing,Standard,Wire
+236,1,G47-P0,Paper Print - Framed,38,40.470,Glass,Standard,Wire
+237,1,G47-P1,Paper Print - Framed,38,40.470,Glass,Standard,Wire
+238,1,G47-P2,Paper Print - Framed,38,40.470,Glass,Standard,Wire
+239,1,G47-P3,Paper Print - Framed,38,40.470,Glass,Standard,Wire
+240,1,G47-A1,Acoustic panel - framed,38,40.475,No Glazing,Standard,Wire
+241,1,G48-P0,Paper Print - Framed,38,40.480,Glass,Standard,Wire
+242,1,G48-P1,Paper Print - Framed,38,40.480,Glass,Standard,Wire
+243,1,G48-P2,Paper Print - Framed,38,40.480,Glass,Standard,Wire
+244,1,G48-P3,Paper Print - Framed,38,40.480,Glass,Standard,Wire
+245,1,G48-A1,Acoustic panel - framed,38,40.485,No Glazing,Standard,Wire
+246,1,G49-P0,Paper Print - Framed,38,40.490,Glass,Standard,Wire
+247,1,G49-P1,Paper Print - Framed,38,40.490,Glass,Standard,Wire
+248,1,G49-P2,Paper Print - Framed,38,40.490,Glass,Standard,Wire
+249,1,G49-P3,Paper Print - Framed,38,40.490,Glass,Standard,Wire
+250,1,G49-A1,Acoustic panel - framed,38,40.495,No Glazing,Standard,Wire
+251,1,G50-P0,Paper Print - Framed,38,40.500,Glass,Standard,Wire
+252,1,G50-P1,Paper Print - Framed,38,40.500,Glass,Standard,Wire
+253,1,G50-P2,Paper Print - Framed,38,40.500,Glass,Standard,Wire
+254,1,G50-P3,Paper Print - Framed,38,40.500,Glass,Standard,Wire
+255,1,G50-A1,Acoustic panel - framed,38,40.505,No Glazing,Standard,Wire
+256,1,G51-P0,Paper Print - Framed,38,40.510,Glass,Standard,Wire
+257,1,G51-P1,Paper Print - Framed,38,40.510,Glass,Standard,Wire
+258,1,G51-P2,Paper Print - Framed,38,40.510,Glass,Standard,Wire
+259,1,G51-P3,Paper Print - Framed,38,40.510,Glass,Standard,Wire
+260,1,G51-A1,Acoustic panel - framed,38,40.515,No Glazing,Standard,Wire
+261,1,G52-P0,Paper Print - Framed,38,40.520,Glass,Standard,Wire
+262,1,G52-P1,Paper Print - Framed,38,40.520,Glass,Standard,Wire
+263,1,G52-P2,Paper Print - Framed,38,40.520,Glass,Standard,Wire
+264,1,G52-P3,Paper Print - Framed,38,40.520,Glass,Standard,Wire
+265,1,G52-A1,Acoustic panel - framed,38,40.525,No Glazing,Standard,Wire
+266,1,G53-P0,Paper Print - Framed,38,40.530,Glass,Standard,Wire
+267,1,G53-P1,Paper Print - Framed,38,40.530,Glass,Standard,Wire
+268,1,G53-P2,Paper Print - Framed,38,40.530,Glass,Standard,Wire
+269,1,G53-P3,Paper Print - Framed,38,40.530,Glass,Standard,Wire
+270,1,G53-A1,Acoustic panel - framed,38,40.535,No Glazing,Standard,Wire
+271,1,G54-P0,Paper Print - Framed,38,40.540,Glass,Standard,Wire
+272,1,G54-P1,Paper Print - Framed,38,40.540,Glass,Standard,Wire
+273,1,G54-P2,Paper Print - Framed,38,40.540,Glass,Standard,Wire
+274,1,G54-P3,Paper Print - Framed,38,40.540,Glass,Standard,Wire
+275,1,G54-A1,Acoustic panel - framed,38,40.545,No Glazing,Standard,Wire
+276,1,G55-P0,Paper Print - Framed,38,40.550,Glass,Standard,Wire
+277,1,G55-P1,Paper Print - Framed,38,40.550,Glass,Standard,Wire
+278,1,G55-P2,Paper Print - Framed,38,40.550,Glass,Standard,Wire
+279,1,G55-P3,Paper Print - Framed,38,40.550,Glass,Standard,Wire
+280,1,G55-A1,Acoustic panel - framed,38,40.555,No Glazing,Standard,Wire
+281,1,G56-P0,Paper Print - Framed,38,40.560,Glass,Standard,Wire
+282,1,G56-P1,Paper Print - Framed,38,40.560,Glass,Standard,Wire
+283,1,G56-P2,Paper Print - Framed,38,40.560,Glass,Standard,Wire
+284,1,G56-P3,Paper Print - Framed,38,40.560,Glass,Standard,Wire
+285,1,G56-A1,Acoustic panel - framed,38,40.565,No Glazing,Standard,Wire
+286,1,G57-P0,Paper Print - Framed,38,40.570,Glass,Standard,Wire
+287,1,G57-P1,Paper Print - Framed,38,40.570,Glass,Standard,Wire
+288,1,G57-P2,Paper Print - Framed,38,40.570,Glass,Standard,Wire
+289,1,G57-P3,Paper Print - Framed,38,40.570,Glass,Standard,Wire
+290,1,G57-A1,Acoustic panel - framed,38,40.575,No Glazing,Standard,Wire
+291,1,G58-P0,Paper Print - Framed,38,40.580,Glass,Standard,Wire
+292,1,G58-P1,Paper Print - Framed,38,40.580,Glass,Standard,Wire
+293,1,G58-P2,Paper Print - Framed,38,40.580,Glass,Standard,Wire
+294,1,G58-P3,Paper Print - Framed,38,40.580,Glass,Standard,Wire
+295,1,G58-A1,Acoustic panel - framed,38,40.585,No Glazing,Standard,Wire
+296,1,G59-P0,Paper Print - Framed,38,40.590,Glass,Standard,Wire
+297,1,G59-P1,Paper Print - Framed,38,40.590,Glass,Standard,Wire
+298,1,G59-P2,Paper Print - Framed,38,40.590,Glass,Standard,Wire
+299,1,G59-P3,Paper Print - Framed,38,40.590,Glass,Standard,Wire
+300,1,G59-A1,Acoustic panel - framed,38,40.595,No Glazing,Standard,Wire
+301,1,G60-P0,Paper Print - Framed,38,40.600,Glass,Standard,Wire
+302,1,G60-P1,Paper Print - Framed,38,40.600,Glass,Standard,Wire
+303,1,G60-P2,Paper Print - Framed,38,40.600,Glass,Standard,Wire
+304,1,G60-P3,Paper Print - Framed,38,40.600,Glass,Standard,Wire
+305,1,G60-A1,Acoustic panel - framed,38,40.605,No Glazing,Standard,Wire
+306,1,G61-P0,Paper Print - Framed,38,40.610,Glass,Standard,Wire
+307,1,G61-P1,Paper Print - Framed,38,40.610,Glass,Standard,Wire
+308,1,G61-P2,Paper Print - Framed,38,40.610,Glass,Standard,Wire
+309,1,G61-P3,Paper Print - Framed,38,40.610,Glass,Standard,Wire
+310,1,G61-A1,Acoustic panel - framed,38,40.615,No Glazing,Standard,Wire
+311,1,G62-P0,Paper Print - Framed,38,40.620,Glass,Standard,Wire
+312,1,G62-P1,Paper Print - Framed,38,40.620,Glass,Standard,Wire
+313,1,G62-P2,Paper Print - Framed,38,40.620,Glass,Standard,Wire
+314,1,G62-P3,Paper Print - Framed,38,40.620,Glass,Standard,Wire
+315,1,G62-A1,Acoustic panel - framed,38,40.625,No Glazing,Standard,Wire
+316,1,G63-P0,Paper Print - Framed,38,40.630,Glass,Standard,Wire
+317,1,G63-P1,Paper Print - Framed,38,40.630,Glass,Standard,Wire
+318,1,G63-P2,Paper Print - Framed,38,40.630,Glass,Standard,Wire
+319,1,G63-P3,Paper Print - Framed,38,40.630,Glass,Standard,Wire
+320,1,G63-A1,Acoustic panel - framed,38,40.635,No Glazing,Standard,Wire
+321,1,G64-P0,Paper Print - Framed,38,40.640,Glass,Standard,Wire
+322,1,G64-P1,Paper Print - Framed,38,40.640,Glass,Standard,Wire
+323,1,G64-P2,Paper Print - Framed,38,40.640,Glass,Standard,Wire
+324,1,G64-P3,Paper Print - Framed,38,40.640,Glass,Standard,Wire
+325,1,G64-A1,Acoustic panel - framed,38,40.645,No Glazing,Standard,Wire
+326,1,G65-P0,Paper Print - Framed,38,40.650,Glass,Standard,Wire
+327,1,G65-P1,Paper Print - Framed,38,40.650,Glass,Standard,Wire
+328,1,G65-P2,Paper Print - Framed,38,40.650,Glass,Standard,Wire
+329,1,G65-P3,Paper Print - Framed,38,40.650,Glass,Standard,Wire
+330,1,G65-A1,Acoustic panel - framed,38,40.655,No Glazing,Standard,Wire
+331,1,G66-P0,Paper Print - Framed,38,40.660,Glass,Standard,Wire
+332,1,G66-P1,Paper Print - Framed,38,40.660,Glass,Standard,Wire
+333,1,G66-P2,Paper Print - Framed,38,40.660,Glass,Standard,Wire
+334,1,G66-P3,Paper Print - Framed,38,40.660,Glass,Standard,Wire
+335,1,G66-A1,Acoustic panel - framed,38,40.665,No Glazing,Standard,Wire
+336,1,G67-P0,Paper Print - Framed,38,40.670,Glass,Standard,Wire
+337,1,G67-P1,Paper Print - Framed,38,40.670,Glass,Standard,Wire
+338,1,G67-P2,Paper Print - Framed,38,40.670,Glass,Standard,Wire
+339,1,G67-P3,Paper Print - Framed,38,40.670,Glass,Standard,Wire
+340,1,G67-A1,Acoustic panel - framed,38,40.675,No Glazing,Standard,Wire
+341,1,G68-P0,Paper Print - Framed,38,40.680,Glass,Standard,Wire
+342,1,G68-P1,Paper Print - Framed,38,40.680,Glass,Standard,Wire
+343,1,G68-P2,Paper Print - Framed,38,40.680,Glass,Standard,Wire
+344,1,G68-P3,Paper Print - Framed,38,40.680,Glass,Standard,Wire
+345,1,G68-A1,Acoustic panel - framed,38,40.685,No Glazing,Standard,Wire
+346,1,G69-P0,Paper Print - Framed,38,40.690,Glass,Standard,Wire
+347,1,G69-P1,Paper Print - Framed,38,40.690,Glass,Standard,Wire
+348,1,G69-P2,Paper Print - Framed,38,40.690,Glass,Standard,Wire
+349,1,G69-P3,Paper Print - Framed,38,40.690,Glass,Standard,Wire
+350,1,G69-A1,Acoustic panel - framed,38,40.695,No Glazing,Standard,Wire
+351,1,G70-P0,Paper Print - Framed,38,40.700,Glass,Standard,Wire
+352,1,G70-P1,Paper Print - Framed,38,40.700,Glass,Standard,Wire
+353,1,G70-P2,Paper Print - Framed,38,40.700,Glass,Standard,Wire
+354,1,G70-P3,Paper Print - Framed,38,40.700,Glass,Standard,Wire
+355,1,G70-A1,Acoustic panel - framed,38,40.705,No Glazing,Standard,Wire
+356,1,G71-P0,Paper Print - Framed,38,40.710,Glass,Standard,Wire
+357,1,G71-P1,Paper Print - Framed,38,40.710,Glass,Standard,Wire
+358,1,G71-P2,Paper Print - Framed,38,40.710,Glass,Standard,Wire
+359,1,G71-P3,Paper Print - Framed,38,40.710,Glass,Standard,Wire
+360,1,G71-A1,Acoustic panel - framed,38,40.715,No Glazing,Standard,Wire
+361,1,G72-P0,Paper Print - Framed,38,40.720,Glass,Standard,Wire
+362,1,G72-P1,Paper Print - Framed,38,40.720,Glass,Standard,Wire
+363,1,G72-P2,Paper Print - Framed,38,40.720,Glass,Standard,Wire
+364,1,G72-P3,Paper Print - Framed,38,40.720,Glass,Standard,Wire
+365,1,G72-A1,Acoustic panel - framed,38,40.725,No Glazing,Standard,Wire
+366,1,G73-P0,Paper Print - Framed,38,40.730,Glass,Standard,Wire
+367,1,G73-P1,Paper Print - Framed,38,40.730,Glass,Standard,Wire
+368,1,G73-P2,Paper Print - Framed,38,40.730,Glass,Standard,Wire
+369,1,G73-P3,Paper Print - Framed,38,40.730,Glass,Standard,Wire
+370,1,G73-A1,Acoustic panel - framed,38,40.735,No Glazing,Standard,Wire
+371,1,G74-P0,Paper Print - Framed,38,40.740,Glass,Standard,Wire
+372,1,G74-P1,Paper Print - Framed,38,40.740,Glass,Standard,Wire
+373,1,G74-P2,Paper Print - Framed,38,40.740,Glass,Standard,Wire
+374,1,G74-P3,Paper Print - Framed,38,40.740,Glass,Standard,Wire
+375,1,G74-A1,Acoustic panel - framed,38,40.745,No Glazing,Standard,Wire
+376,1,G75-P0,Paper Print - Framed,38,40.750,Glass,Standard,Wire
+377,1,G75-P1,Paper Print - Framed,38,40.750,Glass,Standard,Wire
+378,1,G75-P2,Paper Print - Framed,38,40.750,Glass,Standard,Wire
+379,1,G75-P3,Paper Print - Framed,38,40.750,Glass,Standard,Wire
+380,1,G75-A1,Acoustic panel - framed,38,40.755,No Glazing,Standard,Wire
+381,1,G76-P0,Paper Print - Framed,38,40.760,Glass,Standard,Wire
+382,1,G76-P1,Paper Print - Framed,38,40.760,Glass,Standard,Wire
+383,1,G76-P2,Paper Print - Framed,38,40.760,Glass,Standard,Wire
+384,1,G76-P3,Paper Print - Framed,38,40.760,Glass,Standard,Wire
+385,1,G76-A1,Acoustic panel - framed,38,40.765,No Glazing,Standard,Wire
+386,1,G77-P0,Paper Print - Framed,38,40.770,Glass,Standard,Wire
+387,1,G77-P1,Paper Print - Framed,38,40.770,Glass,Standard,Wire
+388,1,G77-P2,Paper Print - Framed,38,40.770,Glass,Standard,Wire
+389,1,G77-P3,Paper Print - Framed,38,40.770,Glass,Standard,Wire
+390,1,G77-A1,Acoustic panel - framed,38,40.775,No Glazing,Standard,Wire
+391,1,G78-P0,Paper Print - Framed,38,40.780,Glass,Standard,Wire
+392,1,G78-P1,Paper Print - Framed,38,40.780,Glass,Standard,Wire
+393,1,G78-P2,Paper Print - Framed,38,40.780,Glass,Standard,Wire
+394,1,G78-P3,Paper Print - Framed,38,40.780,Glass,Standard,Wire
+395,1,G78-A1,Acoustic panel - framed,38,40.785,No Glazing,Standard,Wire
+396,1,G79-P0,Paper Print - Framed,38,40.790,Glass,Standard,Wire
+397,1,G79-P1,Paper Print - Framed,38,40.790,Glass,Standard,Wire
+398,1,G79-P2,Paper Print - Framed,38,40.790,Glass,Standard,Wire
+399,1,G79-P3,Paper Print - Framed,38,40.790,Glass,Standard,Wire
+400,1,G79-A1,Acoustic panel - framed,38,40.795,No Glazing,Standard,Wire
