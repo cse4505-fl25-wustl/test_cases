@@ -1,0 +1,13 @@
+{
+  "crate_count": 0,
+  "custom_piece_count": 123,
+  "final_shipment_weight": 6113,
+  "large_box_count": 40,
+  "oversized_pallet_count": 2,
+  "standard_box_count": 44,
+  "standard_pallet_count": 22,
+  "standard_size_pieces": 19,
+  "total_artwork_weight": 4643,
+  "total_packaging_weight": 1470,
+  "total_pieces": 475
+}
